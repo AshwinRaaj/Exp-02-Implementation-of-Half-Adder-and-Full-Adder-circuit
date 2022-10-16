@@ -35,14 +35,14 @@ Connect the supply (+5V) to the circuit
 Switch ON the main switch
 If the output is 1, then the led glows.
 ### Program:
-/*
+```
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 
 Developed by: Ashwin Raaj.S
 
 RegisterNumber: 212221230008 
 
-*/
+```
 ### Half Adder
 ```
 module Adder(a,b,sum,carry);
